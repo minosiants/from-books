@@ -1,0 +1,9 @@
+[submodule "akka-edge"]
+	path = akka-edge
+	url = https://github.com/tlockney/akka-edge.git
+[submodule "akka-in-action"]
+	path = akka-in-action
+	url = https://github.com/RayRoestenburg/akka-in-action.git
+[submodule "twitbase"]
+	path = twitbase
+	url = https://github.com/hbaseinaction/twitbase.git
