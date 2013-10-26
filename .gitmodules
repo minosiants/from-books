@@ -7,3 +7,6 @@
 [submodule "twitbase"]
 	path = twitbase
 	url = https://github.com/hbaseinaction/twitbase.git
+[submodule "effective_akka"]
+	path = effective_akka
+	url = https://github.com/jamie-allen/effective_akka.git
